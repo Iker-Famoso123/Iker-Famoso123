@@ -12,7 +12,21 @@ Full-stack developer based in Zapopan, Jalisco 🇲🇽
 
 **Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iker-Famoso123&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iker-Famoso123&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook) ![Streak](https://streak-stats.demolab.com?user=Iker-Famoso123&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Iker-Famoso123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iker-Famoso123&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Iker-Famoso123&theme=dark&hide_border=true" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
