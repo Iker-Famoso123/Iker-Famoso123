@@ -18,8 +18,8 @@ Full-stack developer based in Zapopan, Jalisco 🇲🇽
 
 **Currently building**
 - LegalPipeline — SaaS legal case management with Stripe subscriptions *(private repo — available on request)*
-- - Point of sale system in React + Node.js
- 
-  - **Highlights**
-  - - ICPC competitor · Gran Premio de México 2026
-    - - Home lab: Docker · Pi-hole · Tailscale · Cloudflare Tunnel
+- Point of sale system in React + Node.js
+
+**Highlights**
+- ICPC competitor · Gran Premio de México 2026
+- Home lab: Docker · Pi-hole · Tailscale · Cloudflare Tunnel
